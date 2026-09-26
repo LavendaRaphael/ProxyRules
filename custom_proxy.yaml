@@ -1,5 +1,5 @@
 payload:
   - 'DOMAIN-SUFFIX,huangguoai.com'
   - 'DOMAIN-SUFFIX,tkzdds.cn'
-  - "DOMAIN,access.mypikpak.com,PROXY"
-  - "DOMAIN,user.mypikpak.com,PROXY"
+  - "DOMAIN,access.mypikpak.com"
+  - "DOMAIN,user.mypikpak.com"
